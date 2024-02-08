@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
-{ int m;
+{ int a;
 printf("Enter a number: ");
-scanf("%d",&m);
-printf("\n Square of number: %d",m*m);
+scanf("%d",&a);
+printf("\n Square of number: %d",a*a);
 }
