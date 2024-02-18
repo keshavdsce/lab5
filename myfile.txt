@@ -1,1 +1,2 @@
 I am creating a new file in github.
+Git bash is conflicting.
